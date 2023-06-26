@@ -1,0 +1,98 @@
+.tamanho{
+    width: 1980px;
+    height: 773px;  
+}
+
+.tamanho2{
+    width:450px;
+    height: 460px;  
+    margin-left: 350px;
+    margin-top: -700px
+}
+
+.kkk{
+    margin-left:50px
+}
+
+.salasTab{
+    justify-content: center;
+}
+
+.todo{
+    margin-left: 50px;
+}
+
+
+Form{
+    color:black;
+    border-radius: 25px;
+    padding-top: 50px;
+    text-align:left;
+    margin-left: 600px;
+    margin-top: 130px;
+    font-size: 20px;
+    height:600px;
+    width: 850px;
+    border: 1px ;
+    background-image: url('https://i.pinimg.com/236x/28/d4/b3/28d4b35e3ac38250c94ecc1846830e6c.jpg')
+}
+.form-pesquisa{
+    margin: 0px;
+    height: 350px;
+    width: 800px;
+    margin-left: 500px;
+    padding-top: 10px;
+    color:rgb(9, 153, 219);
+}
+
+.headerSalas{
+    justify-content: center;
+    color:black;
+    font-weight: bold;
+}
+
+.table-container{
+    margin: 0px;
+    height: 300px;
+    width: 800px;
+    margin-left: 500px;
+    margin-bottom: 100px;
+}
+button{
+    margin: 0 15px;
+}
+
+.cpfForm{
+    margin: 15px;
+}
+.intranet{
+    font: bold;
+    color: black;
+    border-radius: 25px;
+    justify-content: center;
+    padding-top: 50px;
+    text-align:center;
+    margin-left: 600px; 
+    margin-top: 130px;
+    font-size: 20px;
+    height:600px;
+    width: 850px;
+    border: 1px ;
+    background-image: url('https://i.pinimg.com/236x/28/d4/b3/28d4b35e3ac38250c94ecc1846830e6c.jpg')
+}
+
+
+.container-fluid{
+    padding: 0px 0px;
+}
+
+/*html{
+    width:1905px;
+}*/
+
+
+
+
+
+
+
